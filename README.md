@@ -10,12 +10,17 @@ Built to eliminate **72 hours of production work per webinar** — reducing a 3-
 
 ## The Problem
 
-A B2B SaaS company running 30+ webinars per month was spending an average of 3 days (72 hours) per event on manual content production — writing landing page copy, email sequences, slide narratives, and messaging frameworks from scratch each time.
+insightsoftware is a global financial reporting and analytics SaaS company. Over 4 years, I personally planned and executed 50+ webinars and demand generation campaigns targeting CFOs, FP&A teams, and finance leaders — including GTM launches for 5 acquired products: Financial Consolidation, EPM, ESG reporting, FP&A solutions, and FX rate automation management.
+
+Each webinar required producing a full content package from scratch: messaging framework, landing page copy, email sequences, slide narratives, and PowerPoint decks. The average production time was 3 days (72 hours) per webinar.
 
 The process was:
-- **Slow** — each webinar took an average of 3 days (72 hours) to produce across all formats
+- **Slow** — 3 days (72 hours) of production work per webinar across all formats
 - **Inconsistent** — brand voice and messaging varied across team members and campaigns
 - **Disconnected** — no institutional memory of what messaging had worked before
+- **Unscalable** — at 30+ webinars/month, manual production was consuming the team's entire capacity
+
+I didn't outsource this problem. I built the system to solve it.
 
 ---
 
@@ -208,5 +213,7 @@ I'm building additional automation systems at insightsoftware, including:
 ## About
 
 I design and build AI-powered systems for revenue and marketing teams — combining deep B2B SaaS experience with hands-on technical ability to build systems that actually move business metrics.
+
+4+ years running demand generation and GTM strategy at insightsoftware. Personally executed 50+ webinars and campaigns targeting CFOs and finance leaders. Led product launches for 5 acquisitions across Financial Consolidation, EPM, ESG, FP&A, and FX automation. Then built the AI system to automate what I'd been doing manually.
 
 [Upwork Profile](https://www.upwork.com/freelancers/walidlakouader) · [LinkedIn](https://www.linkedin.com/in/walid-lakouader-001/)
