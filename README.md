@@ -2,7 +2,7 @@
 
 An internal AI-powered platform that automates end-to-end webinar content production for a B2B SaaS company running **30+ webinars per month**.
 
-Built to eliminate **150–300 hours/month** of manual copywriting while maintaining brand consistency and full human editorial control.
+Built to eliminate **72 hours of production work per webinar** — reducing a 3-day process to minutes — while maintaining brand consistency and full human editorial control.
 
 > ⚠️ This is a proprietary internal system. Code is confidential. This repository documents the architecture, design decisions, and outcomes for portfolio purposes.
 
@@ -13,9 +13,9 @@ Built to eliminate **150–300 hours/month** of manual copywriting while maintai
 A B2B SaaS company running 30+ webinars per month was spending 5–10 hours per event on manual content production — writing landing page copy, email sequences, slide narratives, and messaging frameworks from scratch each time.
 
 The process was:
-- **Slow** — each webinar required hours of copywriting across multiple formats
-- **Inconsistent** — brand voice and messaging varied across team members
-- **Disconnected** — no institutional memory of what messaging worked before
+- **Slow** — each webinar took an average of 3 days (72 hours) to produce across all formats
+- **Inconsistent** — brand voice and messaging varied across team members and campaigns
+- **Disconnected** — no institutional memory of what messaging had worked before
 
 ---
 
@@ -172,10 +172,11 @@ All system prompts, model selection, and temperature settings are stored in the 
 | Metric | Result |
 |---|---|
 | Webinars served per month | 30+ |
-| Manual content hours eliminated | 150–300 hrs/month |
+| Production time per webinar (before) | ~72 hours (3 days) |
+| Production time per webinar (after) | Minutes to first draft |
+| Monthly production hours eliminated | 2,000+ hours/month |
 | Content formats automated | 6 (messaging, outcomes, demo, abstract, emails, slides) |
 | Human control maintained | Full review + rewrite + approval workflow |
-| Time to first draft | Minutes (vs. hours manually) |
 
 ---
 
