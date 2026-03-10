@@ -10,7 +10,7 @@ Built to eliminate **72 hours of production work per webinar** — reducing a 3-
 
 ## The Problem
 
-A B2B SaaS company running 30+ webinars per month was spending 5–10 hours per event on manual content production — writing landing page copy, email sequences, slide narratives, and messaging frameworks from scratch each time.
+A B2B SaaS company running 30+ webinars per month was spending an average of 3 days (72 hours) per event on manual content production — writing landing page copy, email sequences, slide narratives, and messaging frameworks from scratch each time.
 
 The process was:
 - **Slow** — each webinar took an average of 3 days (72 hours) to produce across all formats
